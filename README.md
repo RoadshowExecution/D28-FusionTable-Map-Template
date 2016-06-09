@@ -1,7 +1,7 @@
 # D28 Roadshow Searchable Map Template
 This tool is used to provide users with a visual representation of the available Roadshow Events in their area.
 
-[![Searchable Map Template screenshot](https://raw.githubusercontent.com/RoadshowExecution/D-28FusionTable-Map-Template/gh-pages/images/D29_Roadshow_Map_Example.jpg)](http://roadshowexecution.github.io/D28-FusionTable-Map-Template/index_iframe.html#)
+[![Searchable Map Template screenshot](https://github.com/RoadshowExecution/D28-FusionTable-Map-Template/blob/gh-pages/images/D29_Roadshow_Map_Example.jpg)](http://roadshowexecution.github.io/D28-FusionTable-Map-Template/index_iframe.html#)
 
 [See the working version &raquo;](http://roadshowexecution.github.io/D28-FusionTable-Map-Template/index_iframe.html#)
 

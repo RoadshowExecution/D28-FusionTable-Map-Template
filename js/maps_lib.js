@@ -9,11 +9,11 @@
         this.searchRadius = options.searchRadius || 805; //in meters ~ 1/2 mile
 
         // the encrypted Table ID of your Fusion Table (found under File => About)
-        this.fusionTableId = options.fusionTableId || "",
+        this.fusionTableId = options.fusionTableId || "1Ek_JHEDwgjyHN3-mvqO5OHhy7o2qTEw1axELog3J",
 
         // Found at https://console.developers.google.com/
         // Important! this key is for demonstration purposes. please register your own.
-        this.googleApiKey = options.googleApiKey || "",
+        this.googleApiKey = options.googleApiKey || "AIzaSyBon_D4T5M5CbCKznePhsf_GgjAXW2VWjk",
         
         // name of the location column in your Fusion Table.
         // NOTE: if your location column name has spaces in it, surround it with single quotes
